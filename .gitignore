@@ -1,0 +1,6 @@
+patch/smali/pack/*/*.jar
+backup/*
+package/*
+process/*
+temp/*
+config/file_record/*

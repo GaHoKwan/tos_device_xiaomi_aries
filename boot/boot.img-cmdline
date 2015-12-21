@@ -1,0 +1,1 @@
+console=null androidboot.hardware=qcom ehci-hcd.park=3 maxcpus=2 androidboot.selinux=permissive

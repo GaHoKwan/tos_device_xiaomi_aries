@@ -1,0 +1,7 @@
+#!/system/bin/sh
+#
+# Print startup info
+#
+L="log -p i -t cm"
+
+$L "Welcome to Android 4.4.2 kitkat";

@@ -1,0 +1,10 @@
+#######################
+# sample
+#default.prop
+#######################
+app/qbrowser.apk
+app/qmail.apk
+app/qinputmethod.apk
+bin/bootanimation
+lib/browser
+lib/com.tencent.qrom.mail
